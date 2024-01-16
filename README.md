@@ -32,7 +32,7 @@ The CMD Portfolio is a React and Next.js project that replicates a command-line 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/cmd-portfolio.git
+    git clone https://github.com/chirag640/cmd-portfolio.git
     cd cmd-portfolio
     ```
 
@@ -59,7 +59,7 @@ Visit [http://localhost:3000](http://localhost:3000) to explore the CMD Portfoli
 
 ## About
 
-Designed and developed by Chirag Chaudhary. Visit [Chirag's GitHub repository](https://github.com/your-username) for more information.
+Designed and developed by Chirag Chaudhary. Visit [Chirag's GitHub repository](https://github.com/chirag640) for more information.
 
 ## License
 
